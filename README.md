@@ -17,13 +17,10 @@
 
 - **Programming Languages:**
 Python,SQL
-
 - **Data Science & AI Concepts:**
 Machine Learning,Deep Learning,Data Analysis,NLP
-
 - **Libraries & Frameworks:**
 Scikit-learn,TensorFlow,Keras,Pandas,NumPy,Matplotlib,Seaborn
-
 - **Tools & Platforms:**
 Git,GitHub,Google Colab,VS Code,Power BI
 
