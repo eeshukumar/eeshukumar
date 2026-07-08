@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Hi, I'm Eeshu Kumar Aspiring AI Engineer</h1>
+<h1 align="center">Hi, I'm Eeshu Kumar Aspiring AI Engineer</h1>
 <h3 align="center">Building intelligent systems using AI ML Concepts .</h3>
 
 ---
@@ -28,12 +28,10 @@ Git,GitHub,Google Colab,VS Code,Power BI
 
 ### 🌟 Featured Project
 
-#### 📧 [Spam Mail Detection](https://github.com/eeshukumar/spam-mail-detection)
+#### 📧 [Spam Mail Detection](https://github.com/eeshukumar/Spam-Mail-Detection)
 A machine learning web app that classifies emails as **Spam** or **Not Spam** using NLP-based text processing and classical ML.
 - **Tech Used:** Python, Scikit-learn, Flask, TF-IDF, Logistic Regression
 - **Highlights:** Text preprocessing & feature extraction with TF-IDF, model training with Logistic Regression, and a Flask-based interface for real-time predictions.
-
-*(Update the link above with your actual repo URL)*
 
 ---
 
