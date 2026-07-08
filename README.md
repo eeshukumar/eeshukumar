@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eeshu Kumar</h1>
-<h3 align="center">AI/ML Engineer | Turning Data into Intelligent Solutions</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;NLP+%26+Data+Science+Practitioner;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+<h3 align="center">Aspiring AI Engineer</h3>
 
 ---
 
@@ -59,19 +55,6 @@ A machine learning web app that classifies emails as **Spam** or **Not Spam** us
 - **Highlights:** Text preprocessing & feature extraction with TF-IDF, model training with Logistic Regression, and a Flask-based interface for real-time predictions.
 
 *(Update the link above with your actual repo URL)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eeshukumar&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeshukumar&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshukumar&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 ---
 
