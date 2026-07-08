@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eeshu Kumar</h1>
-<h3 align="center">Aspiring AI Engineer</h3>
+<h1 align="center">👩‍💻 Hi, I'm Eeshu Kumar Aspiring AI Engineer</h1>
+<h3 align="center">Building intelligent systems using AI ML Concepts .</h3>
 
 ---
 
@@ -15,35 +15,17 @@
 
 ### 🛠️ Tech Stack
 
-**Programming Languages**
+**Programming Languages:**
+Python,SQL
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Data Science & AI Concepts:**
+Machine Learning,Deep Learning,Data Analysis,NLP
 
-**Data Science & AI Concepts**
+**Libraries & Frameworks:**
+Scikit-learn,TensorFlow,Keras,Pandas,NumPy,Matplotlib,Seaborn
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FF6F00?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-FF6F00?style=flat-square)
-
-**Libraries & Frameworks**
-
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Tools & Platforms:**
+Git,GitHub,Google Colab,VS Code,Power BI
 
 ---
 
@@ -70,5 +52,3 @@ A machine learning web app that classifies emails as **Spam** or **Not Spam** us
 </p>
 
 ---
-
-<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.</i></p>
