@@ -33,6 +33,10 @@ A machine learning web app that classifies emails as **Spam** or **Not Spam** us
 - **Tech Used:** Python, Scikit-learn, Flask, TF-IDF, Logistic Regression
 - **Highlights:** Text preprocessing & feature extraction with TF-IDF, model training with Logistic Regression, and a Flask-based interface for real-time predictions.
 
+#### 🎬 [Movie Recommendation System](https://github.com/eeshukumar/Movie-Recommendation-System)
+A machine learning web app that recommends movies similar to the user's selected movie using **Content-Based Filtering**.
+- **Tech Used:** Python, Scikit-learn, Flask, Pandas, CountVectorizer, Cosine Similarity
+- **Highlights:** Movie metadata preprocessing, feature extraction with CountVectorizer, similarity computation using Cosine Similarity, and a Flask-based web interface for real-time movie recommendations.
 ---
 
 ### 📫 Let's Connect
